@@ -45,7 +45,7 @@ public class HoliayAssignment {
 
     public static void numberTwoB(){
         for(int i = 0; i < 6; i++){
-            for(int j = 0; j < 10; j++){
+            for(int j = 0; j < 11; j++){
                 if(i < 3 && j < 4){
                     System.out.print("*");
                 }
